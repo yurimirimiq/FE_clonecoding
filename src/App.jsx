@@ -17,7 +17,7 @@ function App() {
     <Header />
     <MiddleBody />
 
-    {/* 카드들 그리드로 배치 */}
+    {/* 카드들 그리드*/}
     <div style={{
       width: '100%',
       display: 'grid',
